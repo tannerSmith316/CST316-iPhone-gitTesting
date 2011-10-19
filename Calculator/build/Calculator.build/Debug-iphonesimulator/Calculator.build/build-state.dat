@@ -1,0 +1,256 @@
+TCalculator
+v7
+r0
+t340678214.781986
+cCheck dependencies
+cProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator-Info.plist
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/MainWindow.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/CalculatorViewController.xib
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bfyoizxvujvvshgbpiovybhibkiv/Calculator_Prefix.pch.gch Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
+cGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+cTouch /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E77C2B90000000000000110
+t1316471481
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/CalculatorViewController.xib
+c000000004E9E1EC0000000000000604E
+t1318985408
+s24654
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Calculator_Prefix.pch
+c000000004E9E1CAB00000000000000BD
+t1318984875
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorAppDelegate.h
+c000000004E9E1CAB0000000000000201
+t1318984875
+s513
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorAppDelegate.m
+c000000004E9E1CAB0000000000000AC9
+t1318984875
+s2761
+i"CalculatorAppDelegate.h"
+i"CalculatorViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorViewController.h
+c000000004E9E1DDE000000000000018A
+t1318985182
+s394
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorViewController.m
+c000000004E9E1E920000000000000650
+t1318985362
+s1616
+i"CalculatorViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/MainWindow.xib
+c000000004E9E1CAB0000000000004E4D
+t1318984875
+s20045
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList
+c000000004E9E1DDE0000000000000220
+t1318985182
+s544
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o
+t1318985183
+s51624
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o
+t1318985362
+s40352
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+t1318985183
+s6392
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app
+t1318985414
+s238
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+t1318985362
+s102
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+t1318985362
+s18036
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib
+t1318985414
+s4060
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+t1318985182
+s603
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/MainWindow.nib
+t1318985182
+s1687
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo
+t1318985182
+s8
+
+N/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/main.m
+c000000004E9E1CAB000000000000017C
+t1318984875
+s380
+i<UIKit/UIKit.h>
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bfyoizxvujvvshgbpiovybhibkiv/Calculator_Prefix.pch.gch
+t1318985183
+s15814064
+
+NCalculator-Info.plist
+c000000004E9E1CAB000000000000038D
+t1318984875
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340678214#340678214#0(0"0(0#1#0"8613632512#0"0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340677983.724529
+e340677983.913310
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorAppDelegate.m340677983#340677983#0(0"0(0#0#111"/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorAppDelegate.m8612719936#2467"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bfyoizxvujvvshgbpiovybhibkiv/Calculator_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340678162.061862
+e340678162.170335
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorViewController.m340678162#340678162#0(0"0(0#0#114"/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorViewController.m8615821856#2473"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bfyoizxvujvvshgbpiovybhibkiv/Calculator_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Classes/CalculatorViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340677983.723562
+e340677983.870886
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/main.m340677983#340677983#0(0"0(0#0#86"/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/main.m8612614176#2425"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bfyoizxvujvvshgbpiovybhibkiv/Calculator_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/CalculatorViewController.xib
+s340678214.415667
+e340678214.779729
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/CalculatorViewController.xib
+lSLF07#2@39"CompileXIB CalculatorViewController.xib340678214#340678214#0(0"0(0#0#108"/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/CalculatorViewController.xib8614273536#724"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/CalculatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/MainWindow.xib
+s340677982.623196
+e340677983.003644
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib340677982#340677983#0(0"0(0#0#94"/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/MainWindow.xib8614516480#696"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/MainWindow.nib /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+s340678162.188343
+e340678162.199760
+r1
+xGenerateDSYMFile
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Calculator.app.dSYM build/Debug-iphonesimulator/Calculator.app/Calculator340678162#340678162#0(0"0(0#0#133"/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator8615640448#515"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator -o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM0#
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
+s340678162.170419
+e340678162.188263
+r1
+xLd
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+xnormal
+xi386
+lSLF07#2@138"Link /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator340678162#340678162#0(0"0(0#0#0"8615979936#1120"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator -F/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator -filelist /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator0#
+
+CProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator-Info.plist
+s340677982.599085
+e340677982.623114
+r1
+xProcessInfoPlistFile
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+xCalculator-Info.plist
+lSLF07#2@29"Process Calculator-Info.plist340677982#340677982#0(0"0(0#0#101"/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Calculator-Info.plist31244160508756040#611"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Calculator-Info.plist -genpkginfo /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bfyoizxvujvvshgbpiovybhibkiv/Calculator_Prefix.pch.gch Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s340677983.033895
+e340677983.723443
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bfyoizxvujvvshgbpiovybhibkiv/Calculator_Prefix.pch.gch
+xCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Calculator_Prefix.pch340677983#340677983#0(0"0(0#0#101"/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Calculator_Prefix.pch8615696608#2273"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/Calculator_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bfyoizxvujvvshgbpiovybhibkiv/Calculator_Prefix.pch.gch0#
+
+CTouch /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app
+s340678214.780198
+e340678214.781957
+r1
+xTouch
+x/Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app
+lSLF07#2@128"Touch /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app340678214#340678214#0(0"0(0#0#0"8614223840#363"    cd /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mckenziekurtz/Documents/TannerFolder/CST316-iPhone-gitTesting/Calculator/build/Debug-iphonesimulator/Calculator.app0#
+
